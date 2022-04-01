@@ -260,3 +260,5 @@ while (chon < 1 || chon > 6) {
         print("Vui lòng nhập số từ 1 đến 6")
     }
 
+
+
