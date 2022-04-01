@@ -259,6 +259,3 @@ while (chon < 1 || chon > 6) {
     default:
         print("Vui lòng nhập số từ 1 đến 6")
     }
-
-
-
